@@ -1,0 +1,17 @@
+{
+  "name": "MuxCore Official Marketplace",
+  "description": "Official modules maintained by the MuxCore team. All modules in this catalog are owned by the Muxcore-Media GitHub organization.",
+  "modules": [
+    "https://github.com/Muxcore-Media/admin-ui",
+    "https://github.com/Muxcore-Media/api-rest",
+    "https://github.com/Muxcore-Media/auth-local",
+    "https://github.com/Muxcore-Media/downloader-qbittorrent",
+    "https://github.com/Muxcore-Media/eventbus-nats",
+    "https://github.com/Muxcore-Media/indexer-jackett",
+    "https://github.com/Muxcore-Media/media-library",
+    "https://github.com/Muxcore-Media/media-manager-movies",
+    "https://github.com/Muxcore-Media/notifier-discord",
+    "https://github.com/Muxcore-Media/scheduler-cron",
+    "https://github.com/Muxcore-Media/workflow-engine"
+  ]
+}
