@@ -10,6 +10,7 @@
     "https://github.com/Muxcore-Media/indexer-jackett",
     "https://github.com/Muxcore-Media/media-library",
     "https://github.com/Muxcore-Media/media-manager-movies",
+    "https://github.com/Muxcore-Media/jellyfin",
     "https://github.com/Muxcore-Media/notifier-discord",
     "https://github.com/Muxcore-Media/scheduler-cron",
     "https://github.com/Muxcore-Media/workflow-engine"
